@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">AV2</string>
+
+    <string name="textNum61">Quantos carros foram vendidos pelo funcionário?</string>
+    <string name="textNum62">Qual foi o total do valor das vendas dele?</string>
+    <string name="textNum63">Qual salário do vendedor?</string>
+    <string name="textNum64">Qual a comissão do vendedor por carro vendido?</string>
+
+    <string name="textNum71">Quantas horas o funcionário trabalhou?</string>
+    <string name="textNum72">Qual valor da hora trabalhada do funcionário?</string>
+
+    <string name="textNum81">Qual o valor do salário?</string>
+    <string name="textNum82">Qual valor total das vendas?</string>
+
+    <string name="textNum91">Qual o número da conta?</string>
+    <string name="textNum92">Saldo atual da conta:</string>
+    <string name="textNum93">Débitos lançados:</string>
+    <string name="textNum94">Créditos lançados:</string>
+
+    <string name="textNum101">Quantidade em estoque:</string>
+    <string name="textNum102">Quantidade máxima para o estoque:</string>
+    <string name="textNum103">Quantidade mínima:</string>
+
+    <string name="inputNum" />
+    <string name="button">Executar</string>
+</resources>
